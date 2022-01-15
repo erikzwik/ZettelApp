@@ -1,2 +1,2 @@
 # ZettelApp
-Development of a Zettelkästen and space repetition app. 
+Development of thew:ÖQÖw Zettelkästen and space repetition app. 
